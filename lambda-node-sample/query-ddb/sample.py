@@ -1,3 +1,5 @@
+
+#　参照元のPython実装
 import boto3
 import json
 from boto3.dynamodb.conditions import Key
